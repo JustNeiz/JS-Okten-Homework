@@ -9,6 +9,7 @@ for (i = 0; i<arr1.length; i++){
 
 
 
+
 // - Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre.
 let book1 = {
     title : 'title1',
