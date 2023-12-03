@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72d3e876-6199-4c36-8e0b-a42b36883d22" name="Changes" comment="add hw2 v1">
-      <change afterPath="$PROJECT_DIR$/JS-if-else-ExtraTasks/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS-if-else-ExtraTasks/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/main.js" afterDir="false" />
+    <list default="true" id="72d3e876-6199-4c36-8e0b-a42b36883d22" name="Changes" comment="Homework 3 added">
+      <change afterPath="$PROJECT_DIR$/Homework4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework4/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700548513725</updated>
-      <workItem from="1700548514768" duration="15954000" />
+      <workItem from="1700548514768" duration="22527000" />
     </task>
     <task id="LOCAL-00001" summary="hw1">
       <option name="closed" value="true" />
@@ -89,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700663417334</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add extratasks">
+      <option name="closed" value="true" />
+      <created>1701175832471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701175832471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework 3 added">
+      <option name="closed" value="true" />
+      <created>1701526170669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701526170669</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +126,8 @@
     <MESSAGE value="hw1" />
     <MESSAGE value="hw1 pars age to int&#10;add tasks in comments" />
     <MESSAGE value="add hw2 v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw2 v1" />
+    <MESSAGE value="add extratasks" />
+    <MESSAGE value="Homework 3 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 added" />
   </component>
 </project>
