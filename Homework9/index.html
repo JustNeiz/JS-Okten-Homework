@@ -12,5 +12,23 @@
 <script src="main.js">
 
 </script>
+
+
+<script>
+    let titles = document.querySelectorAll('.item-grid-card__title');
+    let authors = document.querySelectorAll('.item-grid-music-preview__author');
+    let audios = document.querySelectorAll('audio');
+    function ObjConstr (title, author, mp3Link) {
+        this.title = title;
+        this.author = author;
+        this.mp3Link = mp3Link;
+    }
+    let arr = [];
+    for (let i = 0; i < audios.length; i++) {
+        let obj = new ObjConstr(titles[i].innerText, authors[i].innerText, audios[i].src);
+        arr.push(obj);
+    }
+    console.log(arr);
+</script>
 </body>
 </html>
