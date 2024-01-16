@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72d3e876-6199-4c36-8e0b-a42b36883d22" name="Changes" comment="Homework9 added">
-      <change afterPath="$PROJECT_DIR$/Homework10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework10/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework10/sessions.html" afterDir="false" />
+    <list default="true" id="72d3e876-6199-4c36-8e0b-a42b36883d22" name="Changes" comment="Homework10 added">
+      <change afterPath="$PROJECT_DIR$/Homework11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework11/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/user-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tea/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tea/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -50,6 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +70,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homework10" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700548513725</updated>
-      <workItem from="1700548514768" duration="95913000" />
+      <workItem from="1700548514768" duration="135143000" />
     </task>
     <task id="LOCAL-00001" summary="hw1">
       <option name="closed" value="true" />
@@ -151,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702939288641</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Homework10 added">
+      <option name="closed" value="true" />
+      <created>1703445241319</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703445241319</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +201,7 @@
     <MESSAGE value="Homework 6 added, ass is burned" />
     <MESSAGE value="Homework 8 added" />
     <MESSAGE value="Homework9 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework9 added" />
+    <MESSAGE value="Homework10 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework10 added" />
   </component>
 </project>
